@@ -1,1 +1,15 @@
 
+
+  
+buttom {
+    background: ghostwhite;
+    
+     }
+
+    button:hover{
+    color: white; 
+    transition-duration: 2s;
+    transition-delay: 0.5s;  
+    }   
+
+   
