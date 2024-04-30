@@ -1,6 +1,4 @@
 main {
-  
-    transform:  rotate3d(-6, 53, 4.0, -45deg) translate(-600px, -70px);
-      }
-    
+  transform: skewX(-10deg) rotate(-10deg);
+}
 
